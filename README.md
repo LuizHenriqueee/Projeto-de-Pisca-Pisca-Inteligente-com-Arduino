@@ -1,11 +1,11 @@
  * Requisitos:
-  1. Arduino Uno (check)
-  2. Modulo Relé (check)
-  3. Modulo RTC (check)
+  1. Arduino Uno
+  2. Modulo Relé
+  3. Modulo RTC
   4. Protoboard
-  5. Jumpers para conexção 
+  5. Jumpers para conexão
  * Descrição:
- 	Este projeto tem como objetivo automatizar luzes de natal, para desligar e ligar em um horario predeterminado pelo usuario.
+ 	Este projeto tem como objetivo automatizar luzes de natal, para desligar e ligar em um horário predeterminado pelo usuário.
  * Pontos de melhoria:
- 	** Melhorar a experiencia do usuario.
- 	** Definir hora mesmo depois do programa já instalado.
+ 	1. Melhorar a experiência do usuário.
+ 	2. Definir hora mesmo depois do programa já instalado.
